@@ -1,0 +1,6 @@
+{
+    "httpMethod": "POST",
+    "required": [],
+    "allowEmptyParams": true,
+    "default": []
+}

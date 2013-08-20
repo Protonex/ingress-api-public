@@ -1,0 +1,13 @@
+{
+    "httpMethod": "POST",
+    "required": [ "itemGuid", "playerLocation" ],
+    "default": {
+        "clientBasket": {
+            "clientBlob": null
+        },
+        "energyGlobGuids": [],
+        "itemGuid": null,
+        "knobSyncTimestamp": 0,
+        "playerLocation": null
+    }
+}

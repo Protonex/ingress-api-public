@@ -1,0 +1,15 @@
+{
+    "httpMethod": "POST",
+    "required": [ "location", "portalGuid", "resonatorSlots" ],
+    "default": {
+        "clientBasket": {
+            "clientBlob": null
+        },
+        "energyGlobGuids": [],
+        "knobSyncTimestamp": 0,
+        "location": null,
+        "portalGuid": null,
+        "portalKeyGuid": null,
+        "resonatorSlots": null
+    }
+}

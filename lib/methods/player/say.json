@@ -1,0 +1,14 @@
+{
+    "httpMethod": "POST",
+    "required": [ "message", "factionOnly" ],
+    "default": {
+        "playerLocation": null,
+        "clientBasket": {
+            "clientBlob": null
+        },
+        "knobSyncTimestamp": null,
+        "energyGlobGuids": null,
+        "factionOnly": false,
+        "message": null
+    }
+}

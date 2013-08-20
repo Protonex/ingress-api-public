@@ -1,0 +1,9 @@
+{
+    "httpMethod": "POST",
+    "required": [ "customMessage", "inviteEmailAddress" ],
+    "allowEmptyParams": true,
+    "default": {
+        "customMessage": null,
+        "inviteEmailAddress": null
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "httpMethod": "POST",
+    "required": [ "itemGuids", "location", "portalGuid", "preferredSlot" ],
+    "default": {
+        "clientBasket": {
+            "clientBlob": null
+        },
+        "energyGlobGuids": [],
+        "itemGuids": [],
+        "knobSyncTimestamp": 0,
+        "location": null,
+        "portalGuid": null,
+        "preferredSlot": 0
+    }
+}

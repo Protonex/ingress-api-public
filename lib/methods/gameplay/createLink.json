@@ -1,0 +1,15 @@
+{
+    "httpMethod": "POST",
+    "required": [ "originPortalGuid", "destinationPortalGuid", "linkKeyGuid", "location" ],
+    "default": {
+        "clientBasket": {
+            "clientBlob": null
+        },
+        "energyGlobGuids": [],
+        "originPortalGuid": null,
+        "destinationPortalGuid": null,
+        "linkKeyGuid": null,
+        "knobSyncTimestamp": 0,
+        "location": null
+    }
+}

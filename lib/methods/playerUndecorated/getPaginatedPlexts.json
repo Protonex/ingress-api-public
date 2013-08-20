@@ -1,0 +1,18 @@
+{
+    "httpMethod": "POST",
+    "required": [ "cellsAsHex", "minTimestampMs" ],
+    "default": {
+        "playerLocation": null,
+        "cellsAsHex": [],
+        "clientBasket": {
+            "clientBlob": null
+        },
+        "knobSyncTimestamp": null,
+        "energyGlobGuids": null,
+        "factionOnly": false,
+        "minTimestampMs": 0,
+        "maxTimestampMs": -1,
+        "desiredNumItems": 100,
+        "ascendingTimestampOrder": false
+    }
+}

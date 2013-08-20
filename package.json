@@ -1,0 +1,9 @@
+{
+  "name": "ingress-api",
+  "description": "ingress api wrappers",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "main": "./lib/ingress-api",
+  "license": "MIT"
+}

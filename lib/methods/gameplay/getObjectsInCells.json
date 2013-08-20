@@ -1,0 +1,15 @@
+{
+    "httpMethod": "POST",
+    "required": [ "cellsAsHex", "playerLocation", "dates" ],
+    "default": {
+        "cells": null,
+        "cellsAsHex": [],
+        "dates": [],
+        "clientBasket": {
+            "clientBlob": null
+        },
+        "energyGlobGuids": [],
+        "knobSyncTimestamp": 0,
+        "playerLocation": null
+    }
+}
